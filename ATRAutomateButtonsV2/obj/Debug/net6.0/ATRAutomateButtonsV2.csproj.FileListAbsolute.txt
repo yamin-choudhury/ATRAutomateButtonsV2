@@ -1,0 +1,5 @@
+C:\Users\YaminChoudhury\Documents\cAlgo\Sources\Robots\ATRAutomateButtonsV2\ATRAutomateButtonsV2\obj\Debug\net6.0\ATRAutomateButtonsV2.csproj.AssemblyReference.cache
+C:\Users\YaminChoudhury\Documents\cAlgo\Sources\Robots\ATRAutomateButtonsV2\ATRAutomateButtonsV2\obj\Debug\net6.0\ATRAutomateButtonsV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YaminChoudhury\Documents\cAlgo\Sources\Robots\ATRAutomateButtonsV2\ATRAutomateButtonsV2\obj\Debug\net6.0\ATRAutomateButtonsV2.AssemblyInfoInputs.cache
+C:\Users\YaminChoudhury\Documents\cAlgo\Sources\Robots\ATRAutomateButtonsV2\ATRAutomateButtonsV2\obj\Debug\net6.0\ATRAutomateButtonsV2.AssemblyInfo.cs
+C:\Users\YaminChoudhury\Documents\cAlgo\Sources\Robots\ATRAutomateButtonsV2\ATRAutomateButtonsV2\obj\Debug\net6.0\ATRAutomateButtonsV2.csproj.CoreCompileInputs.cache
